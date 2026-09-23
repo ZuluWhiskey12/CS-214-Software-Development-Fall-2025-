@@ -1,0 +1,7 @@
+name1,name2,similarity
+All Star,Bohemian Rhapsody,2.1213203435596424
+All Star,Sweet Home Alabama,0.0
+All Star,We Will Rock You,2.0
+Bohemian Rhapsody,Sweet Home Alabama,2.9154759474226504
+Bohemian Rhapsody,We Will Rock You,NaN
+Sweet Home Alabama,We Will Rock You,NaN
